@@ -11,7 +11,7 @@ gem 'devise-bootstrap-views'
 gem 'sendgrid-ruby'
 
 gem 'figaro'
-
+gem 'stripe'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
